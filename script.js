@@ -48,6 +48,8 @@ let z = DaysofNumberThisMonth;
 
 document.getElementById("time").innerHTML = y + " " + z;
 
+console.log(y);
+
 /*
 //ROTATION LOGO
 const intro = document.querySelector('.intro');
