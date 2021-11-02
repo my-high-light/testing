@@ -46,7 +46,7 @@ let z = DaysofNumberThisMonth;
 
 /* Get this month and days of this month */
 
-document.getElementById("time").innerHTML = y + " " + z;
+document.getElementById("time").innerHTML = z + " " + y;
 
 /*
 //ROTATION LOGO
